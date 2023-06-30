@@ -1,0 +1,23 @@
+body {
+
+}
+
+
+#mainBar {
+
+    display: flex;
+
+    justify-content: center;
+
+    flex-direction: row;
+}
+
+p {
+    padding: 30px;
+    font-size: 4em;
+    background-color: aqua;
+    margin: 10px;
+}
+p:hover {
+    background-color: darkcyan;
+}
